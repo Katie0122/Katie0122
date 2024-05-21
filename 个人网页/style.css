@@ -1,0 +1,10 @@
+@charset "utf-8";
+body{font-size: 25px;}
+.size p:nth-child(2) {font-size: 1em;}
+.size p:nth-child(3) {font-size: 1rem;}
+.color p:nth-child(1){color:blue;}
+.bgstyle p:nth-child(1) {
+    width: 800px;
+    height:800px;
+    background-image: url(images/IMG_6171.JPG);
+}
